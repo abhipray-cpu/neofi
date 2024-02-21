@@ -1,0 +1,35 @@
+
+# Lib folder
+Lib/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Secret keys
+*.env
+
+# Local development settings
+local_settings.py
+
+# Database
+db.sqlite3
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*~
+.DS_Store
